@@ -1,6 +1,6 @@
 {
-  "name": "deploy-gh-pages",
   "homepage": "https://github.com/JacquiKane/deploy-gh-pages/",
+  "name": "deploy-gh-pages",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
